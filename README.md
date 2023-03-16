@@ -1,4 +1,4 @@
-# Sample_js01
+# TODO app (without React)
 This repo is for the Udemy session
 
 
